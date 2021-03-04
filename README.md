@@ -1,7 +1,7 @@
-## Somos We Build.
-Uma plataforma de busca de profissionais da construção, estamos dispostos a trabalhar para que clientes e profissionais fechem negócios rápidos, seguros e de qualidade.
-A idéia principal da plataforma é dar ao cliente segurança e um meio que ele possa ter certeza que o profissional que está buscando será qualificado para o trabalho que precisa.
-Para os profissionais, queremos dar a segurança e um local onde possam vender seus serviços e concentrar as avaliações de seus clientes para assim criar um network abrangente que possa fazer diferença na vida financeira dessas pessoas.
+## We Build.
+A search platform for construction professionals, we are willing to work for clients and professionals to close fast, safe and quality deals.
+The main idea of the platform is to give the client security and a means that he can be sure that the professional he is looking for will be qualified for the work he needs.
+For the professionals, we want to give them security and a place where they can sell their services and concentrate their clients' evaluations to create a comprehensive network that can make a difference in their financial lives.
 
 ![Home da Webuild](https://github.com/Georg37/project-webuild/blob/master/WEBUILD%20VER1.jpg)
 
