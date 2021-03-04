@@ -3,4 +3,6 @@ Uma plataforma de busca de profissionais da construção, estamos dispostos a tr
 A idéia principal da plataforma é dar ao cliente segurança e um meio que ele possa ter certeza que o profissional que está buscando será qualificado para o trabalho que precisa.
 Para os profissionais, queremos dar a segurança e um local onde possam vender seus serviços e concentrar as avaliações de seus clientes para assim criar um network abrangente que possa fazer diferença na vida financeira dessas pessoas.
 
+![Home da Webuild](https://github.com/Georg37/project-webuild/blob/master/WEBUILD%20VER1.jpg)
 
+![Solução do problema](https://github.com/Georg37/project-webuild/blob/master/WEBUILD%20VER1.png)
